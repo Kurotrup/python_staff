@@ -1,0 +1,4 @@
+8.8.8.8 foop.com 
+178.13.10.3 152.144.32.12
+facebook.com 
+gov.za
