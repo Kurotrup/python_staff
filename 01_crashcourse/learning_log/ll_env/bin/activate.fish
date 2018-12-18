@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/kur/github/python_staff/01_crashcourse/learning_log/ll_env"
+set -gx VIRTUAL_ENV "/home/kurotrup/github/python_staff/01_crashcourse/learning_log/ll_env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
